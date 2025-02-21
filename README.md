@@ -10,3 +10,5 @@ A bibliographical database is an electronic archive of bibliographic references 
 - neo4j
 - mongoDB
 - spark 
+
+read documentation for more info
